@@ -1,0 +1,2 @@
+# WatchKitSample2
+tableviewを使ったサンプル。いろいろはまったところはReadmeに記載
